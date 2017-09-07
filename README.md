@@ -1,5 +1,5 @@
-E*Trade API Communication
+# E*Trade API Communication
 
-Features
+### Features
 
 Authorization
