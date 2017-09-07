@@ -1,0 +1,26 @@
+{
+  "name": "etrade-api",
+  "version": "1.0.0",
+  "description": "app to communicate with E*Trade API",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korlando7/etrade-api.git"
+  },
+  "keywords": [
+    "etrade",
+    "api"
+  ],
+  "author": "Kevin Orlando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korlando7/etrade-api/issues"
+  },
+  "homepage": "https://github.com/korlando7/etrade-api#readme",
+  "dependencies": {
+    "request-promise": "^4.2.1"
+  }
+}
